@@ -5,8 +5,8 @@
  Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
  📕Clique aqui para ler
+ "C:\Users\Karina\OneDrive\Documentos\ebook- saiyajin output.pdf"
  
-
  💻 Tecnologias utilizadas no projeto
 
  ChatGPT
