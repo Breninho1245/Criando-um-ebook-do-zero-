@@ -6,7 +6,7 @@
 
  📕Clique aqui para ler
 
-file:///C:/Users/Karina/OneDrive/Documentos/ebook-%20saiyajin%20output.pdf 
+https://github.com/Breninho1245/Criando-um-ebook-do-zero-.gitfile:///C:/Users/Karina/OneDrive/Documentos/ebook-%20saiyajin%20output.pdf 
  
  💻 Tecnologias utilizadas no projeto
 
