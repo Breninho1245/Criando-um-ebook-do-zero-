@@ -6,7 +6,7 @@
 
  📕Clique aqui para ler
 
- "C:\Users\Karina\OneDrive\Documentos\ebook- saiyajin output.pdf"
+"C:\Users\Karina\OneDrive\Documentos\ebook- saiyajin output.pdf"
  
  💻 Tecnologias utilizadas no projeto
 
