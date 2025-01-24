@@ -7,6 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 📕Clique aqui para ler
 
 💻 Tecnologias utilizadas no projeto
+
 ChatGPT
 Piclumen
 PowerPoint
